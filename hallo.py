@@ -1,8 +1,10 @@
 #!/usr/bin/python
 
-print "Hello Word"
-
+print "Hello kamu"
+print "hello faiz"
+print "gampag tenan"
+print "piye iki"
 ~
 ~
 ~
-:
+:WQ
